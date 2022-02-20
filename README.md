@@ -7,5 +7,10 @@
 
 # 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanan-Hussein&theme=dark&count_private=true&theme=dark&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-Hussein&layout=compact&count_private=true&show_icons=true&langs_count=10)](https://github.com/Hanan-Hussein/github-readme-stats)
+
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanan-Hussein&theme=tokyonight&show_icons=true)  	| ![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-Hussein&layout=compact&count_private=true&show_icons=true&langs_count=10&theme=tokyonight)  	|   	|   	|   	|
+|-	|-	|-	|-	|-	|
+
+
+#
+[![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/hanan-hussein-ibrahim-9a478415a/)
