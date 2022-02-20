@@ -7,5 +7,5 @@
 
 # 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-Hussein&layout=compact&theme=dracula&count_private=true&show_icons=true&langs_count=10)](https://github.com/Hanan-Hussein/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanan-Hussein&theme=dark&count_private=true&theme=dark&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-Hussein&layout=compact&count_private=true&show_icons=true&langs_count=10)](https://github.com/Hanan-Hussein/github-readme-stats)
