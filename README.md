@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Online Library System :books:](https://github.com/Hanan-Hussein/Online-Library-System)
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Py
 - 📫 How to reach me: hanan.ibrahim@student.moringaschool.com
 
 # 
