@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Online Library System :books:](https://github.com/Hanan-Hussein/Online-Library-System)
-- 🌱 I’m currently learning Py
+- 🌱 I’m currently learning Jmix a high-level open source java framework
 - 📫 How to reach me: hanan.ibrahim@student.moringaschool.com
 
 # 
