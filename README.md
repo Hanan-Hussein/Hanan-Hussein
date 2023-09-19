@@ -1,9 +1,9 @@
 <h1 align='center'>Hi there 👋</h1>
 
 
-- 🔭 I’m currently working on [Online Library System :books:](https://github.com/Hanan-Hussein/Online-Library-System)
-- 🌱 I’m currently learning Jmix a high-level open source java framework
-- 📫 How to reach me: hanan.ibrahim@student.moringaschool.com
+- 🔭 I’m currently working on a card management system
+- 🌱 I’m currently learning go
+- 📫 How to reach me: hananhussein704@gmail.com
 
 # 
 
